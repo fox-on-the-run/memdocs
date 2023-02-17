@@ -38,6 +38,7 @@ Enroll your personal Linux device in Microsoft Intune to get secure access to wo
 Enrollment is supported on devices with:  
 
 * Ubuntu Desktop 22.04 or 20.04 LTS
+* Microsoft Hyper-V machine with Quick Create Ubuntu 20.04 or 22.04 
 * A GNOME graphical desktop environment (automatically included with Ubuntu Desktop 22.04 and 20.04 LTS)  
 
 We recommend enabling encryption when you first install Ubuntu Desktop on your device. Your organization may require your device to be encrypted, and it's easiest to encrypt the device during OS installation. 
