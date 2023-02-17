@@ -52,7 +52,7 @@ Use for personal/BYOD and organization-owned devices running Linux.
 | Devices are owned by the organization or school. | ✔️ |
 | Devices are personal or BYOD. | ✔️  |
 | You have new or existing devices. | ✔️ |
-| Need to enroll a few devices, or a large number of devices (bulk enrollment). | ✔️ <br/><br/> If you have a large number of devices, then this method will take some time. |
+| Need to enroll a few devices, or a large number of devices (bulk enrollment). | ❌ <br/><br/> If you have a large number of devices, then this method will take some time. |
 | Devices are associated with a single user. | ✔️ |
 | Devices are user-less, such as kiosk or dedicated device. | ❌ <br/><br/> The enrollment requires a user to sign in with an organization account. |
 | Devices are managed by another MDM provider. | ❌ <br/><br/> It might be possible to enroll Linux devices in Intune that are already enrolled in another MDM provider. This scenario hasn't been tested by Microsoft. |
